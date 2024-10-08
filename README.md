@@ -22,7 +22,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=3ch0Byt3&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=3ch0Byt3&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=3ch0Byt3&label=Profile%20Views&color=4&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 
 
 ## 🌐 Socials:
